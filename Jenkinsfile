@@ -2,7 +2,7 @@ pipeline {
 
   environment {
 
-    registry = "simplikarty/project"
+    registry = "rehmana1/project"
 
     registryCredential = 'dockerhub'
 
