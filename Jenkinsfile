@@ -4,7 +4,7 @@ pipeline {
 
     registry = "rehmana1/project"
 
-    registryCredential = 'dockerhub'
+    registryCredential = 'Aziz.261290'
 
     dockerImage = ''
 
